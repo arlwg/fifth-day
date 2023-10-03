@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748b7382e2d480e4fb060221dabb4f95, type: 3}
+  m_Name: Quest One
+  m_EditorClassIdentifier: 
+  id: 0
+  name: Move To Plane
+  description: Move to the destroyed plane.
+  questIcon: {fileID: 21300000, guid: 65a1928224b8541439b433a52ea9c3d9, type: 3}
+  type: 2
+  questCondition:
+    isHandIn: 0
+    isTimed: 0
+    questTimerValue: 0
+  questManager: {fileID: 0}
+  reward: {fileID: 11400000, guid: a7d7d740558ca3b428e2cbf60b46d9fc, type: 2}
+  active: 1
+  complete: 0
+  handedIn: 0
+  targetPosition: {x: -16.968239, y: -0.030189514, z: 63.007263}
+  completionRadius: 35
+  targetTag: QuestOneLocation

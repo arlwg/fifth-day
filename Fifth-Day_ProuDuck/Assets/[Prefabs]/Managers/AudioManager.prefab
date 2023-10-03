@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6366767382652972379
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7862068898704337068}
+  - component: {fileID: 2367709328842293858}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7862068898704337068
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6366767382652972379}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 5.450711, y: -0.51006967, z: -1.4276264}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2367709328842293858
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6366767382652972379}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71fa0f2fef248614ca0fdd1da92b517e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Sounds:
+  - Clip: {fileID: 8300000, guid: 802c40032c879844bb88d74e0988b417, type: 3}
+    Name: MainMenu_BGM
+    Volume: 0.5
+    Pitch: 1
+    LoopTrack: 1
+    AudioSource: {fileID: 0}
+  - Clip: {fileID: 8300000, guid: 435f338f18a66e246b4962b550da8d55, type: 3}
+    Name: ButtonHover_SFX
+    Volume: 1
+    Pitch: 1
+    LoopTrack: 0
+    AudioSource: {fileID: 0}
+  - Clip: {fileID: 8300000, guid: fedc6b8881e53df46aaa7c1cb41e17be, type: 3}
+    Name: ButtonClick_SFX
+    Volume: 1
+    Pitch: 1
+    LoopTrack: 0
+    AudioSource: {fileID: 0}
+  - Clip: {fileID: 8300000, guid: 40c8fc89820619844ba844ce8ae36cc8, type: 3}
+    Name: FirstLevel_BGM
+    Volume: 0.5
+    Pitch: 1
+    LoopTrack: 1
+    AudioSource: {fileID: 0}
+  - Clip: {fileID: 8300000, guid: 511285acbaf5c3a4281d4294517ced27, type: 3}
+    Name: Combat_BGM
+    Volume: 0.3
+    Pitch: 1
+    LoopTrack: 1
+    AudioSource: {fileID: 0}
+  - Clip: {fileID: 8300000, guid: 06df58efa12d0b04a8e5bb2fc2dd7ace, type: 3}
+    Name: GunShell_SFX
+    Volume: 0.8
+    Pitch: 1
+    LoopTrack: 0
+    AudioSource: {fileID: 0}
+  - Clip: {fileID: 8300000, guid: 8602b7d5cd15c1943a50aa53f171c8cf, type: 3}
+    Name: GunFire_SFX
+    Volume: 0.8
+    Pitch: 1
+    LoopTrack: 0
+    AudioSource: {fileID: 0}
+  - Clip: {fileID: 8300000, guid: 3c5c1d4d7b9307c458890a4beb12e4ae, type: 3}
+    Name: GunReload_SFX
+    Volume: 0.8
+    Pitch: 1
+    LoopTrack: 0
+    AudioSource: {fileID: 0}
+  - Clip: {fileID: 8300000, guid: 2699c7ebe83a77043a6d1e0484cd3bda, type: 3}
+    Name: AxeAttack_SFX
+    Volume: 0.8
+    Pitch: 1
+    LoopTrack: 0
+    AudioSource: {fileID: 0}
+  - Clip: {fileID: 8300000, guid: feb6a068d05cebe41bd62eaae48a9a61, type: 3}
+    Name: AxeSound
+    Volume: 0.8
+    Pitch: 1
+    LoopTrack: 0
+    AudioSource: {fileID: 0}
+  - Clip: {fileID: 8300000, guid: da5a5d794e11cbb448422c9c24e72cea, type: 3}
+    Name: GunShot
+    Volume: 0.8
+    Pitch: 1
+    LoopTrack: 0
+    AudioSource: {fileID: 0}
+  - Clip: {fileID: 8300000, guid: 58f046eb443a625428a8f3e703de9978, type: 3}
+    Name: WindHowl
+    Volume: 0.5
+    Pitch: 1
+    LoopTrack: 1
+    AudioSource: {fileID: 0}
+  MainMixer: {fileID: 24300002, guid: 1adff4642b7b57c43b136a717647a182, type: 2}

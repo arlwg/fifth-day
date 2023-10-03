@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7893711a6826a04caa8f68e64596913, type: 3}
+  m_Name: BakedRueberryFishRecipe
+  m_EditorClassIdentifier: 
+  ingredientList:
+  - item: {fileID: 11400000, guid: 317e4167a02085546a3ce0edbf0c7b2e, type: 2}
+    count: 1
+  - item: {fileID: 11400000, guid: fce95f3eee774004d9d777bf9cdc3793, type: 2}
+    count: 10
+  - item: {fileID: 11400000, guid: d553c69549f916842885fe8c5865e7fd, type: 2}
+    count: 5
+  endProduct: {fileID: 11400000, guid: f2c67a2b855044240af764284f270859, type: 2}

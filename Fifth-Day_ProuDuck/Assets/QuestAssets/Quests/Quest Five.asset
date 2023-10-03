@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748b7382e2d480e4fb060221dabb4f95, type: 3}
+  m_Name: Quest Five
+  m_EditorClassIdentifier: 
+  id: 4
+  name: Move to the Base
+  description: Moving to the base
+  questIcon: {fileID: 21300000, guid: 247cb504efaf4474bbaeb4346701b99c, type: 3}
+  questCondition:
+    isHandIn: 0
+    isTimed: 0
+    questTimerValue: 0
+  questManager: {fileID: 0}
+  reward: {fileID: 11400000, guid: 46c8773a420181d49845542acc1cd49f, type: 2}
+  active: 1
+  complete: 0
+  handedIn: 0
+  targetPosition: {x: 0, y: 0, z: 0}
+  completionRadius: 20
+  targetTag: BasePart

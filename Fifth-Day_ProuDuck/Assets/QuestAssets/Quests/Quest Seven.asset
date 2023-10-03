@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c50a94c40b6332942bafeae1f7f37c02, type: 3}
+  m_Name: Quest Seven
+  m_EditorClassIdentifier: 
+  id: 6
+  name: Talk to Ishita
+  description: Tromby
+  questIcon: {fileID: 5670732621190257608, guid: 87258a2e98839004986e33d9a04e825e,
+    type: 3}
+  questCondition:
+    isHandIn: 0
+    isTimed: 0
+    questTimerValue: 0
+  questManager: {fileID: 0}
+  reward: {fileID: 11400000, guid: f2513f86ffad86d40ab150a1608a9ee4, type: 2}
+  active: 1
+  complete: 0
+  handedIn: 0
+  interactID: 1
+  otherQuestsComplete: 0
+  isLastQuest: 1

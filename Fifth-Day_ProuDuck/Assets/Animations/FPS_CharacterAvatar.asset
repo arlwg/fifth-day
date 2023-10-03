@@ -1,0 +1,791 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!90 &9000000
+Avatar:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FPS_CharacterAvatar
+  m_AvatarSize: 8780
+  m_Avatar:
+    serializedVersion: 3
+    m_AvatarSkeleton:
+      data:
+        m_Node:
+        - m_ParentId: -1
+          m_AxesId: -1
+        - m_ParentId: 0
+          m_AxesId: -1
+        - m_ParentId: 0
+          m_AxesId: -1
+        - m_ParentId: 2
+          m_AxesId: -1
+        - m_ParentId: 3
+          m_AxesId: -1
+        - m_ParentId: 4
+          m_AxesId: -1
+        - m_ParentId: 5
+          m_AxesId: -1
+        - m_ParentId: 6
+          m_AxesId: -1
+        - m_ParentId: 7
+          m_AxesId: -1
+        - m_ParentId: 8
+          m_AxesId: -1
+        - m_ParentId: 6
+          m_AxesId: -1
+        - m_ParentId: 10
+          m_AxesId: -1
+        - m_ParentId: 11
+          m_AxesId: -1
+        - m_ParentId: 12
+          m_AxesId: -1
+        - m_ParentId: 13
+          m_AxesId: -1
+        - m_ParentId: 14
+          m_AxesId: -1
+        - m_ParentId: 15
+          m_AxesId: -1
+        - m_ParentId: 16
+          m_AxesId: -1
+        - m_ParentId: 13
+          m_AxesId: -1
+        - m_ParentId: 18
+          m_AxesId: -1
+        - m_ParentId: 19
+          m_AxesId: -1
+        - m_ParentId: 20
+          m_AxesId: -1
+        - m_ParentId: 13
+          m_AxesId: -1
+        - m_ParentId: 22
+          m_AxesId: -1
+        - m_ParentId: 23
+          m_AxesId: -1
+        - m_ParentId: 24
+          m_AxesId: -1
+        - m_ParentId: 13
+          m_AxesId: -1
+        - m_ParentId: 26
+          m_AxesId: -1
+        - m_ParentId: 27
+          m_AxesId: -1
+        - m_ParentId: 28
+          m_AxesId: -1
+        - m_ParentId: 13
+          m_AxesId: -1
+        - m_ParentId: 30
+          m_AxesId: -1
+        - m_ParentId: 31
+          m_AxesId: -1
+        - m_ParentId: 32
+          m_AxesId: -1
+        - m_ParentId: 6
+          m_AxesId: -1
+        - m_ParentId: 34
+          m_AxesId: -1
+        - m_ParentId: 35
+          m_AxesId: -1
+        - m_ParentId: 36
+          m_AxesId: -1
+        - m_ParentId: 37
+          m_AxesId: -1
+        - m_ParentId: 38
+          m_AxesId: -1
+        - m_ParentId: 39
+          m_AxesId: -1
+        - m_ParentId: 40
+          m_AxesId: -1
+        - m_ParentId: 37
+          m_AxesId: -1
+        - m_ParentId: 42
+          m_AxesId: -1
+        - m_ParentId: 43
+          m_AxesId: -1
+        - m_ParentId: 44
+          m_AxesId: -1
+        - m_ParentId: 37
+          m_AxesId: -1
+        - m_ParentId: 46
+          m_AxesId: -1
+        - m_ParentId: 47
+          m_AxesId: -1
+        - m_ParentId: 48
+          m_AxesId: -1
+        - m_ParentId: 37
+          m_AxesId: -1
+        - m_ParentId: 50
+          m_AxesId: -1
+        - m_ParentId: 51
+          m_AxesId: -1
+        - m_ParentId: 52
+          m_AxesId: -1
+        - m_ParentId: 37
+          m_AxesId: -1
+        - m_ParentId: 54
+          m_AxesId: -1
+        - m_ParentId: 55
+          m_AxesId: -1
+        - m_ParentId: 56
+          m_AxesId: -1
+        - m_ParentId: 37
+          m_AxesId: -1
+        - m_ParentId: 58
+          m_AxesId: -1
+        - m_ParentId: 58
+          m_AxesId: -1
+        - m_ParentId: 58
+          m_AxesId: -1
+        - m_ParentId: 3
+          m_AxesId: -1
+        - m_ParentId: 62
+          m_AxesId: -1
+        - m_ParentId: 63
+          m_AxesId: -1
+        - m_ParentId: 64
+          m_AxesId: -1
+        - m_ParentId: 65
+          m_AxesId: -1
+        - m_ParentId: 3
+          m_AxesId: -1
+        - m_ParentId: 67
+          m_AxesId: -1
+        - m_ParentId: 68
+          m_AxesId: -1
+        - m_ParentId: 69
+          m_AxesId: -1
+        - m_ParentId: 70
+          m_AxesId: -1
+        - m_ParentId: 0
+          m_AxesId: -1
+        - m_ParentId: 72
+          m_AxesId: -1
+        - m_ParentId: 72
+          m_AxesId: -1
+        m_ID: 0000000013f9a29986da71ba5fce7046e09dc166d80702f28a6cedd0dd8f708e6609989649a92901d47d34c92b7c9d47dfdb73e04f401b3313d4624d6cb070137a03c3a294e269fb6fabf12b009d79e4f195850e7ae41e70e782f4ca8a67e783e5111edb5e27b442e70dddf00513e96935efba0b4f7971fd03d830c14512aefd2cbbfd8d32ce9e57ef0851af256552ee5e05a18546b8af9ffd9d4c21604e03da02348d253b985d1181e2df472abbb6a12895b413ddbae749d1632a8d69a4cfad7e2b86c2e886f6dfb30e01d858173a47a5b86fd45f82b9e9ed911eadd646360917617da3778bfcd52253db8599c6e1ece498e02c83ff42f9b973251f0017fd7ffad2580f89f9544f637ccf6855af777a52be809035ac75a11d29540cf745a513724da17630eede946ec1f340
+        m_AxesArray: []
+    m_AvatarSkeletonPose:
+      data:
+        m_X:
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0, y: 0, z: 0}
+          q: {x: 0, y: -0, z: -0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0, y: 0, z: 0}
+          q: {x: 0, y: -0, z: -0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.0000012683868, y: 1.026286, z: -0.010080658}
+          q: {x: 0.00000008423008, y: -0.00000013497929, z: -0.0000038087164, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 6.0813645e-14, y: 0.09179367, z: -0.018812109}
+          q: {x: -0.10089806, y: -0.00000025000347, z: 0.0000038028977, w: 0.99489677}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -1.0004948e-13, y: 0.10931847, z: 2.8612984e-10}
+          q: {x: 1.637156e-18, y: -1.7871178e-13, z: 6.5967907e-13, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 2.9702315e-14, y: 0.12493537, z: 0.000000014790274}
+          q: {x: 2.6847343e-37, y: -4.5972592e-20, z: 5.8398583e-18, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 1.5225327e-14, y: 0.1405522, z: -0.00000041186033}
+          q: {x: 0.10089813, y: 1.9473557e-14, z: 2.3051523e-13, w: 0.99489677}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 4.3633096e-14, y: 0.079160914, z: 0.03515103}
+          q: {x: 2.064312e-20, y: 2.0646443e-20, z: 8.5989225e-19, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0, y: 0.19962478, z: 0.08864065}
+          q: {x: 2.7755576e-17, y: -0, z: -0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.075624086, y: 0.11974517, z: -0.004304484}
+          q: {x: 0.67964053, y: -0.21951796, z: 0.43702373, w: 0.5467274}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.00000011889548, y: 0.16852365, z: 0.00000014179518}
+          q: {x: 0.548141, y: 0.24597375, z: -0.08351379, w: 0.7950244}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.0000026100258, y: 0.22867444, z: 0.0000004618465}
+          q: {x: 0.09787853, y: 0.045342494, z: -0.36345148, w: 0.9253469}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.00000076561867, y: 0.23325998, z: -0.000002223238}
+          q: {x: 0.15028036, y: 0.5460444, z: 0.1678419, w: 0.80689555}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.028164528, y: 0.027377252, z: 0.0111988075}
+          q: {x: 0.19325103, y: -0.088773936, z: -0.24880798, w: 0.94491684}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.0039647645, y: 0.03243291, z: -0.00000016957434}
+          q: {x: 0.00046199927, y: 0.0061899996, z: -0.046988722, w: 0.99887615}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.0008983254, y: 0.03256566, z: -0.000000122632}
+          q: {x: -0.00061524584, y: 0.0080739865, z: -0.10338641, w: 0.99460834}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.0048626126, y: 0.026787927, z: 0.00000021950311}
+          q: {x: -0.0000007354002, y: -0.00000058400366, z: 0.000000033444067, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.03959915, y: 0.09965929, z: -0.0017564347}
+          q: {x: -0.08916072, y: 0.00020403689, z: -0.056760885, w: 0.9943986}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.00008665954, y: 0.029098306, z: -0.0000000063541443}
+          q: {x: 0.30198222, y: 0.00003490648, z: -0.005920767, w: 0.9532952}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.00008365314, y: 0.026217975, z: -0.00000046877295}
+          q: {x: 0.30473116, y: 0.00047493167, z: -0.0015765297, w: 0.95243704}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.0000031189747, y: 0.022616118, z: 0.00000036177872}
+          q: {x: 0.00000011760424, y: 0.00000018088129, z: -0.00000006929435, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.011939464, y: 0.10080528, z: -0.004198692}
+          q: {x: 0.21574894, y: 0.04528553, z: -0.0079826955, w: 0.9753656}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.00012508692, y: 0.03176123, z: -0.00000015345982}
+          q: {x: 0.43826756, y: -0.00013755175, z: 0.004646051, w: 0.89883256}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.0001420066, y: 0.029714474, z: 0.00000012536526}
+          q: {x: 0.4402373, y: -0.0010950505, z: -0.0016449371, w: 0.8978793}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.000016529511, y: 0.024351573, z: 0.0000001271241}
+          q: {x: -0.00000028744088, y: 0.00000008847308, z: -0.000000036654107, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.014367036, y: 0.10130697, z: -0.0030922506}
+          q: {x: 0.344458, y: -0.07281816, z: -0.25315213, w: 0.90108836}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.00006444419, y: 0.02870766, z: 0.00000014985942}
+          q: {x: 0.37877342, y: -0.00028268155, z: 0.003533786, w: 0.9254827}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.000009233514, y: 0.027751995, z: 0.00000015649228}
+          q: {x: 0.37869936, y: 0.00045139724, z: 0.0037382725, w: 0.9255121}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.000054820277, y: 0.021984793, z: -0.00000015434873}
+          q: {x: 0.00000018133927, y: -0.000000036219763, z: 0.00000020097806, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.03716981, y: 0.09021576, z: -0.0015485646}
+          q: {x: 0.39240927, y: 0.1962361, z: -0.056261677, w: 0.89685065}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.00005973552, y: 0.028339628, z: -0.0000001667335}
+          q: {x: 0.4064879, y: 0.001583558, z: 0.017125294, w: 0.9134943}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.00015734058, y: 0.024257302, z: -0.00000002167505}
+          q: {x: 0.40655553, y: -0.0013007133, z: 0.026869494, w: 0.91323}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.00021714147, y: 0.019756192, z: 0.000000016646823}
+          q: {x: -0.00000013382238, y: 0.00000018303349, z: -0.00000008803597, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.075624086, y: 0.11972932, z: -0.00422709}
+          q: {x: -0.54027426, y: -0.4479175, z: 0.56918097, w: -0.42837676}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.000000009307289, y: 0.1685248, z: 0.00000008364587}
+          q: {x: 0.6536569, y: 0.231024, z: 0.20507698, w: 0.69087195}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.000005958397, y: 0.2286758, z: -0.00011216318}
+          q: {x: 0.16790088, y: -0.0025599694, z: 0.76081824, w: 0.6268639}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.0000043565865, y: 0.2332606, z: -0.000010453061}
+          q: {x: -0.38284928, y: 0.09746012, z: -0.23431039, w: 0.8882717}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.027821038, y: 0.026167389, z: 0.011798409}
+          q: {x: 0.3539166, y: 0.09668976, z: 0.36990222, w: 0.85356104}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.0032867985, y: 0.031809986, z: -0.0000006612822}
+          q: {x: 0.0018242425, y: -0.0030443019, z: -0.1586681, w: 0.9873256}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.0005259341, y: 0.033341076, z: -0.0000005251329}
+          q: {x: -0.0005249954, y: -0.005273175, z: -0.22176856, w: 0.97508496}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.0027611547, y: 0.028862506, z: -0.00000015924454}
+          q: {x: -0.00000024057266, y: 0.00000044998671, z: -0.0000001186875, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.039186083, y: 0.09647417, z: -0.0018386767}
+          q: {x: 0.080186024, y: 0.21203643, z: 0.16548513, w: 0.9598049}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.00011587827, y: 0.02971329, z: -0.00000048594404}
+          q: {x: 0.33995557, y: 0.0008129741, z: 0.002753412, w: 0.94043714}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.000011345747, y: 0.028256375, z: -0.00000049485044}
+          q: {x: 0.3316227, y: -0.0010717418, z: 0.0039283102, w: 0.9434033}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.0001270649, y: 0.02216295, z: -0.00000044459472}
+          q: {x: 0.00000023227489, y: 0.0000012527563, z: 0.00000010081378, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.012500892, y: 0.10028546, z: -0.003294056}
+          q: {x: 0.39008716, y: -0.25203592, z: -0.15659668, w: 0.87165785}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.00008378444, y: 0.030413628, z: -0.00000060452135}
+          q: {x: 0.40516904, y: 0.0001240498, z: -0.0047606225, w: 0.9142294}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.00011863062, y: 0.03136315, z: -0.00000020858904}
+          q: {x: 0.40516955, y: 0.00062729145, z: 0.00062582025, w: 0.9142412}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.000033690925, y: 0.023842216, z: -0.00000016848804}
+          q: {x: -0.0000002283932, y: 0.000000049076355, z: -0.00000027338172, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.01459718, y: 0.101573385, z: -0.004224234}
+          q: {x: 0.62552834, y: -0.3229966, z: -0.039679736, w: 0.7090931}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.000019320412, y: 0.028068993, z: -0.00000059665473}
+          q: {x: 0.22492103, y: -0.000006818617, z: -0.0022436702, w: 0.9743745}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.000021573265, y: 0.028020393, z: -0.00000028253052}
+          q: {x: 0.21598399, y: -0.00008978325, z: -0.0032372428, w: 0.97639155}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.0000023212083, y: 0.021856232, z: -0.00000008848481}
+          q: {x: -0.00000028989447, y: -0.00000017556427, z: 0.00000013197966, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.037086792, y: 0.092264056, z: -0.0013165651}
+          q: {x: 0.6477489, y: -0.38756248, z: -0.012723309, w: 0.6557857}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.00015404657, y: 0.027854493, z: -0.00000031463676}
+          q: {x: 0.18285196, y: -0.001095309, z: -0.0077755656, w: 0.9831091}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.00019345812, y: 0.023740819, z: -0.00000042023885}
+          q: {x: 0.17146513, y: 0.0023310562, z: -0.02206515, w: 0.98494035}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.000347888, y: 0.017504172, z: 0.00000023003223}
+          q: {x: 0.0000006853555, y: 0.000000092840345, z: -0.00000004094356, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0, y: 0, z: 0}
+          q: {x: 0.9752603, y: -0.20991546, z: -0.03115848, w: 0.061902706}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.10279875, y: -0.1861877, z: -0.048489}
+          q: {x: 0.33548075, y: -0.62245697, z: 0.33548075, w: 0.62245697}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.07137706, y: -0.27009642, z: -0.04442312}
+          q: {x: 0.51217127, y: 0.5068748, z: 0.5382857, w: 0.43704355}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.11521835, y: -0.023289336, z: -0.016679639}
+          q: {x: -0.6610677, y: 0.122003675, z: 0.69261754, w: 0.26150632}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.06800782, y: -0.050893534, z: 0.010149326}
+          q: {x: 0.000557532, y: -0.0054095713, z: 0.9999289, w: 0.010615664}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.0000000018653037, y: 0.40621477, z: 4.5015894e-10}
+          q: {x: -0.01872993, y: -0.000049344904, z: 0.020390298, w: 0.9996167}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 7.677243e-10, y: 0.4415074, z: 0.0000000067771606}
+          q: {x: 0.43908226, y: 0.029478773, z: -0.02731269, w: 0.89754766}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.000000002576618, y: 0.17030805, z: 0.000000006945734}
+          q: {x: 0.3319634, y: 0.0145118, z: -0.00510768, w: 0.9431668}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 2.9326322e-10, y: 0.0697092, z: -1.2211786e-10}
+          q: {x: 0, y: -0, z: -0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.06800782, y: -0.050893568, z: 0.013157195}
+          q: {x: -0.00067503727, y: -0.008328159, z: 0.9999088, w: -0.010614885}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.0000000011635856, y: 0.40636832, z: -2.7065994e-10}
+          q: {x: -0.016528679, y: -0.000014932383, z: -0.020387083, w: 0.99965554}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 5.328845e-10, y: 0.44141647, z: -0.000000005698317}
+          q: {x: 0.43622413, y: -0.030274047, z: 0.027365921, w: 0.8989122}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.0000000010026642, y: 0.16878287, z: -0.00000001400063}
+          q: {x: 0.3361552, y: -0.010879996, z: 0.0038836468, w: 0.94173574}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -5.8949096e-11, y: 0.072200306, z: 1.1353462e-10}
+          q: {x: 0, y: -0, z: -0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.0000005149841, y: 1.2937047, z: 0.29339886}
+          q: {x: 0.00012202589, y: -0.0000785888, z: -0.000000857241, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0, y: 0, z: 0}
+          q: {x: 0, y: -0, z: -0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.0000443878, y: -1.2937764, z: -0.2930831}
+          q: {x: -0.00012202589, y: 0.0000785888, z: 0.000000857241, w: 1}
+          s: {x: 1, y: 1, z: 1}
+    m_DefaultPose:
+      data:
+        m_X:
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0, y: 0, z: 0}
+          q: {x: 0, y: -0, z: -0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0, y: 0, z: 0}
+          q: {x: 0, y: -0, z: -0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.0000012683868, y: 1.026286, z: -0.010080658}
+          q: {x: 0.00000008423008, y: -0.00000013497929, z: -0.0000038087164, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 6.0813645e-14, y: 0.09179367, z: -0.018812109}
+          q: {x: -0.10089806, y: -0.00000025000347, z: 0.0000038028977, w: 0.99489677}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -1.0004948e-13, y: 0.10931847, z: 2.8612984e-10}
+          q: {x: 1.637156e-18, y: -1.7871178e-13, z: 6.5967907e-13, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 2.9702315e-14, y: 0.12493537, z: 0.000000014790274}
+          q: {x: 2.6847343e-37, y: -4.5972592e-20, z: 5.8398583e-18, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 1.5225327e-14, y: 0.1405522, z: -0.00000041186033}
+          q: {x: 0.10089813, y: 1.9473557e-14, z: 2.3051523e-13, w: 0.99489677}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 4.3633096e-14, y: 0.079160914, z: 0.03515103}
+          q: {x: 2.064312e-20, y: 2.0646443e-20, z: 8.5989225e-19, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0, y: 0.19962478, z: 0.08864065}
+          q: {x: 2.7755576e-17, y: -0, z: -0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.075624086, y: 0.11974517, z: -0.004304484}
+          q: {x: 0.67964053, y: -0.21951796, z: 0.43702373, w: 0.5467274}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.00000011889548, y: 0.16852365, z: 0.00000014179518}
+          q: {x: 0.548141, y: 0.24597375, z: -0.08351379, w: 0.7950244}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.0000026100258, y: 0.22867444, z: 0.0000004618465}
+          q: {x: 0.09787853, y: 0.045342494, z: -0.36345148, w: 0.9253469}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.00000076561867, y: 0.23325998, z: -0.000002223238}
+          q: {x: 0.15028036, y: 0.5460444, z: 0.1678419, w: 0.80689555}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.028164528, y: 0.027377252, z: 0.0111988075}
+          q: {x: 0.19325103, y: -0.088773936, z: -0.24880798, w: 0.94491684}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.0039647645, y: 0.03243291, z: -0.00000016957434}
+          q: {x: 0.00046199927, y: 0.0061899996, z: -0.046988722, w: 0.99887615}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.0008983254, y: 0.03256566, z: -0.000000122632}
+          q: {x: -0.00061524584, y: 0.0080739865, z: -0.10338641, w: 0.99460834}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.0048626126, y: 0.026787927, z: 0.00000021950311}
+          q: {x: -0.0000007354002, y: -0.00000058400366, z: 0.000000033444067, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.03959915, y: 0.09965929, z: -0.0017564347}
+          q: {x: -0.08916072, y: 0.00020403689, z: -0.056760885, w: 0.9943986}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.00008665954, y: 0.029098306, z: -0.0000000063541443}
+          q: {x: 0.30198222, y: 0.00003490648, z: -0.005920767, w: 0.9532952}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.00008365314, y: 0.026217975, z: -0.00000046877295}
+          q: {x: 0.30473116, y: 0.00047493167, z: -0.0015765297, w: 0.95243704}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.0000031189747, y: 0.022616118, z: 0.00000036177872}
+          q: {x: 0.00000011760424, y: 0.00000018088129, z: -0.00000006929435, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.011939464, y: 0.10080528, z: -0.004198692}
+          q: {x: 0.21574894, y: 0.04528553, z: -0.0079826955, w: 0.9753656}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.00012508692, y: 0.03176123, z: -0.00000015345982}
+          q: {x: 0.43826756, y: -0.00013755175, z: 0.004646051, w: 0.89883256}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.0001420066, y: 0.029714474, z: 0.00000012536526}
+          q: {x: 0.4402373, y: -0.0010950505, z: -0.0016449371, w: 0.8978793}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.000016529511, y: 0.024351573, z: 0.0000001271241}
+          q: {x: -0.00000028744088, y: 0.00000008847308, z: -0.000000036654107, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.014367036, y: 0.10130697, z: -0.0030922506}
+          q: {x: 0.344458, y: -0.07281816, z: -0.25315213, w: 0.90108836}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.00006444419, y: 0.02870766, z: 0.00000014985942}
+          q: {x: 0.37877342, y: -0.00028268155, z: 0.003533786, w: 0.9254827}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.000009233514, y: 0.027751995, z: 0.00000015649228}
+          q: {x: 0.37869936, y: 0.00045139724, z: 0.0037382725, w: 0.9255121}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.000054820277, y: 0.021984793, z: -0.00000015434873}
+          q: {x: 0.00000018133927, y: -0.000000036219763, z: 0.00000020097806, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.03716981, y: 0.09021576, z: -0.0015485646}
+          q: {x: 0.39240927, y: 0.1962361, z: -0.056261677, w: 0.89685065}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.00005973552, y: 0.028339628, z: -0.0000001667335}
+          q: {x: 0.4064879, y: 0.001583558, z: 0.017125294, w: 0.9134943}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.00015734058, y: 0.024257302, z: -0.00000002167505}
+          q: {x: 0.40655553, y: -0.0013007133, z: 0.026869494, w: 0.91323}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.00021714147, y: 0.019756192, z: 0.000000016646823}
+          q: {x: -0.00000013382238, y: 0.00000018303349, z: -0.00000008803597, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.075624086, y: 0.11972932, z: -0.00422709}
+          q: {x: -0.54027426, y: -0.4479175, z: 0.56918097, w: -0.42837676}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.000000009307289, y: 0.1685248, z: 0.00000008364587}
+          q: {x: 0.6536569, y: 0.231024, z: 0.20507698, w: 0.69087195}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.000005958397, y: 0.2286758, z: -0.00011216318}
+          q: {x: 0.16790088, y: -0.0025599694, z: 0.76081824, w: 0.6268639}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.0000043565865, y: 0.2332606, z: -0.000010453061}
+          q: {x: -0.38284928, y: 0.09746012, z: -0.23431039, w: 0.8882717}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.027821038, y: 0.026167389, z: 0.011798409}
+          q: {x: 0.3539166, y: 0.09668976, z: 0.36990222, w: 0.85356104}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.0032867985, y: 0.031809986, z: -0.0000006612822}
+          q: {x: 0.0018242425, y: -0.0030443019, z: -0.1586681, w: 0.9873256}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.0005259341, y: 0.033341076, z: -0.0000005251329}
+          q: {x: -0.0005249954, y: -0.005273175, z: -0.22176856, w: 0.97508496}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.0027611547, y: 0.028862506, z: -0.00000015924454}
+          q: {x: -0.00000024057266, y: 0.00000044998671, z: -0.0000001186875, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.039186083, y: 0.09647417, z: -0.0018386767}
+          q: {x: 0.080186024, y: 0.21203643, z: 0.16548513, w: 0.9598049}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.00011587827, y: 0.02971329, z: -0.00000048594404}
+          q: {x: 0.33995557, y: 0.0008129741, z: 0.002753412, w: 0.94043714}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.000011345747, y: 0.028256375, z: -0.00000049485044}
+          q: {x: 0.3316227, y: -0.0010717418, z: 0.0039283102, w: 0.9434033}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.0001270649, y: 0.02216295, z: -0.00000044459472}
+          q: {x: 0.00000023227489, y: 0.0000012527563, z: 0.00000010081378, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.012500892, y: 0.10028546, z: -0.003294056}
+          q: {x: 0.39008716, y: -0.25203592, z: -0.15659668, w: 0.87165785}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.00008378444, y: 0.030413628, z: -0.00000060452135}
+          q: {x: 0.40516904, y: 0.0001240498, z: -0.0047606225, w: 0.9142294}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.00011863062, y: 0.03136315, z: -0.00000020858904}
+          q: {x: 0.40516955, y: 0.00062729145, z: 0.00062582025, w: 0.9142412}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.000033690925, y: 0.023842216, z: -0.00000016848804}
+          q: {x: -0.0000002283932, y: 0.000000049076355, z: -0.00000027338172, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.01459718, y: 0.101573385, z: -0.004224234}
+          q: {x: 0.62552834, y: -0.3229966, z: -0.039679736, w: 0.7090931}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.000019320412, y: 0.028068993, z: -0.00000059665473}
+          q: {x: 0.22492103, y: -0.000006818617, z: -0.0022436702, w: 0.9743745}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.000021573265, y: 0.028020393, z: -0.00000028253052}
+          q: {x: 0.21598399, y: -0.00008978325, z: -0.0032372428, w: 0.97639155}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.0000023212083, y: 0.021856232, z: -0.00000008848481}
+          q: {x: -0.00000028989447, y: -0.00000017556427, z: 0.00000013197966, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.037086792, y: 0.092264056, z: -0.0013165651}
+          q: {x: 0.6477489, y: -0.38756248, z: -0.012723309, w: 0.6557857}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.00015404657, y: 0.027854493, z: -0.00000031463676}
+          q: {x: 0.18285196, y: -0.001095309, z: -0.0077755656, w: 0.9831091}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.00019345812, y: 0.023740819, z: -0.00000042023885}
+          q: {x: 0.17146513, y: 0.0023310562, z: -0.02206515, w: 0.98494035}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.000347888, y: 0.017504172, z: 0.00000023003223}
+          q: {x: 0.0000006853555, y: 0.000000092840345, z: -0.00000004094356, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0, y: 0, z: 0}
+          q: {x: 0.9752603, y: -0.20991546, z: -0.03115848, w: 0.061902706}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.10279875, y: -0.1861877, z: -0.048489}
+          q: {x: 0.33548075, y: -0.62245697, z: 0.33548075, w: 0.62245697}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.07137706, y: -0.27009642, z: -0.04442312}
+          q: {x: 0.51217127, y: 0.5068748, z: 0.5382857, w: 0.43704355}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.11521835, y: -0.023289336, z: -0.016679639}
+          q: {x: -0.6610677, y: 0.122003675, z: 0.69261754, w: 0.26150632}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.06800782, y: -0.050893534, z: 0.010149326}
+          q: {x: 0.000557532, y: -0.0054095713, z: 0.9999289, w: 0.010615664}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.0000000018653037, y: 0.40621477, z: 4.5015894e-10}
+          q: {x: -0.01872993, y: -0.000049344904, z: 0.020390298, w: 0.9996167}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 7.677243e-10, y: 0.4415074, z: 0.0000000067771606}
+          q: {x: 0.43908226, y: 0.029478773, z: -0.02731269, w: 0.89754766}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.000000002576618, y: 0.17030805, z: 0.000000006945734}
+          q: {x: 0.3319634, y: 0.0145118, z: -0.00510768, w: 0.9431668}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 2.9326322e-10, y: 0.0697092, z: -1.2211786e-10}
+          q: {x: 0, y: -0, z: -0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.06800782, y: -0.050893568, z: 0.013157195}
+          q: {x: -0.00067503727, y: -0.008328159, z: 0.9999088, w: -0.010614885}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.0000000011635856, y: 0.40636832, z: -2.7065994e-10}
+          q: {x: -0.016528679, y: -0.000014932383, z: -0.020387083, w: 0.99965554}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 5.328845e-10, y: 0.44141647, z: -0.000000005698317}
+          q: {x: 0.43622413, y: -0.030274047, z: 0.027365921, w: 0.8989122}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.0000000010026642, y: 0.16878287, z: -0.00000001400063}
+          q: {x: 0.3361552, y: -0.010879996, z: 0.0038836468, w: 0.94173574}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -5.8949096e-11, y: 0.072200306, z: 1.1353462e-10}
+          q: {x: 0, y: -0, z: -0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: 0.0000005149841, y: 1.2937047, z: 0.29339886}
+          q: {x: 0.00012202589, y: -0.0000785888, z: -0.000000857241, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0, y: 0, z: 0}
+          q: {x: 0, y: -0, z: -0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.0000443878, y: -1.2937764, z: -0.2930831}
+          q: {x: -0.00012202589, y: 0.0000785888, z: 0.000000857241, w: 1}
+          s: {x: 1, y: 1, z: 1}
+    m_SkeletonNameIDArray: 0000000013f9a29986da71ba1106d1decbc10e534efa398ff4ab30166d792380a259c107879e0faca860462dda0a83eb803ab9896cf375b6ace1f47816b0fde18080fa9623159e08d09e671e6acf6e87fcff69f05f6a0d6ecfba1f9175eb1608e3db117f404e75e1cf4840d37519494ae3294e3d40bc2aa3bceda6f406bcaf6d908ca81a3319cc84e54706f627f7b36baaa15772304df975cfbe299875ef2001e3df2776404a43e8b3c1bafe0990b3679fa0b4103c35d08e72574445c8064ddc5e364aabfda32e35c535f6db7f64ff42e954f8354ac19cabdfb27b1465e3728df3d375fa504611644d3145887bf3689c126472c80be8245bf083611701f40d0670889858e19450b915a90cac91127f75fc093d862c36149bcb0fbe423f32e257724da1768ca49a7bb24dface
+    m_Human:
+      data:
+        serializedVersion: 2
+        m_RootX:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        m_Skeleton:
+          data:
+            m_Node: []
+            m_ID: 
+            m_AxesArray: []
+        m_SkeletonPose:
+          data:
+            m_X: []
+        m_LeftHand:
+          data:
+            m_HandBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_RightHand:
+          data:
+            m_HandBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_HumanBoneIndex: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        m_HumanBoneMass:
+        - 0.14545456
+        - 0.12121213
+        - 0.12121213
+        - 0.048484854
+        - 0.048484854
+        - 0.009696971
+        - 0.009696971
+        - 0.030303033
+        - 0.14545456
+        - 0.14545456
+        - 0.012121214
+        - 0.048484854
+        - 0.006060607
+        - 0.006060607
+        - 0.024242427
+        - 0.024242427
+        - 0.01818182
+        - 0.01818182
+        - 0.006060607
+        - 0.006060607
+        - 0.0024242427
+        - 0.0024242427
+        - 0
+        - 0
+        - 0
+        m_Scale: 1
+        m_ArmTwist: 0.5
+        m_ForeArmTwist: 0.5
+        m_UpperLegTwist: 0.5
+        m_LegTwist: 0.5
+        m_ArmStretch: 0.05
+        m_LegStretch: 0.05
+        m_FeetSpacing: 0
+        m_HasLeftHand: 0
+        m_HasRightHand: 0
+        m_HasTDoF: 0
+    m_HumanSkeletonIndexArray: 
+    m_HumanSkeletonReverseIndexArray: 
+    m_RootMotionBoneIndex: -1
+    m_RootMotionBoneX:
+      t: {x: 0, y: 0, z: 0}
+      q: {x: 0, y: 0, z: 0, w: 1}
+      s: {x: 1, y: 1, z: 1}
+    m_RootMotionSkeleton:
+      data:
+        m_Node: []
+        m_ID: 
+        m_AxesArray: []
+    m_RootMotionSkeletonPose:
+      data:
+        m_X: []
+    m_RootMotionSkeletonIndexArray: 
+  m_TOS:
+    196800309: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing1/LeftHandRing2/LeftHandRing3
+    2577594643: MainCharacterMesh
+    2730689402: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1/LeftHandThumb2/LeftHandThumb3
+    1205854849: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1
+    2389741533: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/Neck
+    4218020500: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1/LeftHandThumb2/LeftHandThumb3/LeftHandThumb4
+    3128023686: MainCharacterSkillet
+    3657649760: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1/RightHandThumb2
+    857423951: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+    2526546278: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/Neck/Head
+    329598455: MainCharacterSkillet/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase/RightToe_End
+    1990282610: Weapon01
+    1758428259: MainCharacterSkillet/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase/LeftToe_End
+    3974219417: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/Weapon_Root/Weapon2
+    3676180965: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1/LeftHandMiddle2/LeftHandMiddle3
+    4252072271: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing1/LeftHandRing2/LeftHandRing3/LeftHandRing4
+    630010882: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1/RightHandThumb2/RightHandThumb3
+    154552022: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandPinky1/RightHandPinky2
+    4256043589: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandPinky1/LeftHandPinky2
+    2382215980: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandPinky1/LeftHandPinky2/LeftHandPinky3
+    3757475560: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1/RightHandMiddle2/RightHandMiddle3/RightHandMiddle4
+    2904461805: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandPinky1
+    257479418: MainCharacterSkillet/Hips/LeftUpLeg/LeftLeg/LeftFoot
+    3765689311: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm
+    2241922398: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm
+    3263572862: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1/RightHandMiddle2/RightHandMiddle3
+    1119102814: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1/LeftHandMiddle2/LeftHandMiddle3/LeftHandMiddle4
+    2424356434: MainCharacterSkillet/Hips/RightUpLeg/RightLeg
+    2368365521: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1
+    243635697: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1/LeftHandIndex2/LeftHandIndex3
+    1089716590: Weapon01/Magazine
+    2054664021: MainCharacterSkillet/Hips/RightUpLeg
+    3623947955: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing1
+    3998377253: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm
+    291346491: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1/RightHandThumb2/RightHandThumb3/RightHandThumb4
+    3564091557: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing1/RightHandRing2/RightHandRing3
+    1470025266: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandPinky1/LeftHandPinky2/LeftHandPinky3/LeftHandPinky4
+    206842141: MainCharacterSkillet/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase
+    3405021927: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1
+    2742903063: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandPinky1/RightHandPinky2/RightHandPinky3
+    4060219352: MainCharacterSkillet/Hips/Spine/Spine1
+    2679093318: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand
+    1201503275: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm
+    2708843573: MainCharacterSkillet/Hips/RightUpLeg/RightLeg/RightFoot
+    2916066409: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1/RightHandMiddle2
+    3375660500: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/LeftShoulder
+    1298322451: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1
+    326152300: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1/LeftHandThumb2
+    2212980618: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1/LeftHandMiddle2
+    330601768: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1/RightHandIndex2/RightHandIndex3
+    558669309: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1
+    1181797983: MainCharacterSkillet/Hips
+    2147292928: MainCharacterSkillet/Hips/LeftUpLeg/LeftLeg
+    1194989400: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing1/RightHandRing2
+    4041018855: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing1
+    752916708: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/Weapon_Root/Magazinejnt
+    1330968969: MainCharacterSkillet/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase
+    0: 
+    3505220746: MainCharacterSkillet/Hips/Spine/Spine1/Spine2
+    2497637936: Weapon01/Body
+    1723964896: MainCharacterSkillet/Hips/Spine
+    19507529: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop_End
+    1881072762: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1/LeftHandIndex2/LeftHandIndex3/LeftHandIndex4
+    2713107242: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1/RightHandIndex2
+    3833175296: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1/LeftHandIndex2
+    522548153: MainCharacterSkillet/Hips/LeftUpLeg
+    3590097783: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandPinky1/RightHandPinky2/RightHandPinky3/RightHandPinky4
+    1239923421: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1/RightHandIndex2/RightHandIndex3/RightHandIndex4
+    2941323503: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/RightShoulder
+    4181917571: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/Weapon_Root/Sword
+    737258351: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1
+    3921248863: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing1/RightHandRing2/RightHandRing3/RightHandRing4
+    3241203715: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandPinky1
+    2245743394: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/Weapon_Root
+    1776882437: MainCharacterSkillet/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing1/LeftHandRing2
+  m_HumanDescription:
+    serializedVersion: 3
+    m_Human: []
+    m_Skeleton: []
+    m_ArmTwist: 0.5
+    m_ForeArmTwist: 0.5
+    m_UpperLegTwist: 0.5
+    m_LegTwist: 0.5
+    m_ArmStretch: 0.05
+    m_LegStretch: 0.05
+    m_FeetSpacing: 0
+    m_GlobalScale: 1
+    m_RootMotionBoneName: 
+    m_HasTranslationDoF: 0
+    m_HasExtraRoot: 0
+    m_SkeletonHasParents: 0
